@@ -1,0 +1,16 @@
+记录时间：2019-01-07 20:21:04,292 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：/*******************************************************************/
+记录时间：2019-01-07 20:21:04,330 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：服务器地址：192.168.2.111:9090
+记录时间：2019-01-07 20:21:04,333 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：Hbase表名：BYD_DAT
+记录时间：2019-01-07 20:21:04,335 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：是否执行Hbase工具：Y/N
+记录时间：2019-01-07 20:21:06,460 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：模式选择：查询数据拷贝至本地文件
+记录时间：2019-01-07 20:21:06,462 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：开始读取本地RowKey...
+记录时间：2019-01-07 20:21:06,463 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：读取本地文件地址：C:\Users\Administrator\Desktop\1.txt
+记录时间：2019-01-07 20:21:06,464 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：写入本地文件地址：C:\Users\Administrator\Desktop\RowKeyResult.txt
+记录时间：2019-01-07 20:21:06,466 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：共加载指定RowKey53条
+记录时间：2019-01-07 20:21:06,468 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：本地RowKey读取完成
+开始查询Hbase库数据...
+记录时间：2019-01-07 20:21:06,471 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：/*******************************************************************/
+记录时间：2019-01-07 20:22:46,896 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：/*******************************************************************/
+记录时间：2019-01-07 20:22:46,935 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：服务器地址：192.168.2.111:9090
+记录时间：2019-01-07 20:22:46,938 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：Hbase表名：BYD_DAT
+记录时间：2019-01-07 20:22:46,940 线程ID:[9] 日志级别：INFO  执行类：Program property:[(null)] - 描述：是否执行Hbase工具：Y/N

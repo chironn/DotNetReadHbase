@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\Utilities\bin\Debug\Utilities.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\Utilities\bin\Debug\Thrift.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\Utilities\bin\Debug\Thrift.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\Utilities\obj\Debug\Utilities.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\Utilities\bin\Debug\Utilities.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\Utilities\bin\Debug\Utilities.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\Utilities\bin\Debug\log4net.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\Utilities\bin\Debug\Thrift.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\Utilities\bin\Debug\log4net.xml
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\Utilities\bin\Debug\Thrift.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\Utilities\obj\Debug\Utilities.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\Utilities\obj\Debug\Utilities.pdb

@@ -1,0 +1,30 @@
+c:\users\administrator\documents\visual studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\bin\Debug\DotNetReadHbase.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\bin\Debug\DotNetReadHbase.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\bin\Debug\DotNetReadHbase.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\bin\Debug\HbaseHelper.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\bin\Debug\Thrift.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\bin\Debug\Utilities.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\bin\Debug\HbaseHelper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\bin\Debug\Thrift.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\bin\Debug\Utilities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\obj\Debug\DotNetReadHbase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\obj\Debug\DotNetReadHbase.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\DotNetReadHbase\obj\Debug\DotNetReadHbase.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\App.config
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\log4net.config
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\DotNetReadHbase.exe.config
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\DotNetReadHbase.exe
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\DotNetReadHbase.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\HbaseHelper.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\log4net.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\LoggerHelper.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\Thrift.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\Utilities.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\HbaseHelper.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\LoggerHelper.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\log4net.xml
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\Thrift.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\bin\Debug\Utilities.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\obj\Debug\DotNetReadHbase.csprojResolveAssemblyReference.cache
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\obj\Debug\DotNetReadHbase.exe
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\DotNetReadHbase\obj\Debug\DotNetReadHbase.pdb

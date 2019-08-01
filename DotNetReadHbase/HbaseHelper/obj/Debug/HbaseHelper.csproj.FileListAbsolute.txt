@@ -1,0 +1,24 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\HbaseHelper\obj\Debug\HbaseHelper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\HbaseHelper\bin\Debug\HbaseHelper.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\HbaseHelper\bin\Debug\HbaseHelper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\HbaseHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\HbaseHelper\bin\Debug\Thrift.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\HbaseHelper\bin\Debug\Utilities.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\HbaseHelper\bin\Debug\Utilities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\HbaseHelper\bin\Debug\Thrift.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\HbaseHelper\obj\Debug\HbaseHelper.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\DotNetReadHbase\HbaseHelper\obj\Debug\HbaseHelper.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\bin\Debug\HbaseHelper.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\bin\Debug\HbaseHelper.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\bin\Debug\log4net.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\bin\Debug\LoggerHelper.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\bin\Debug\Newtonsoft.Json.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\bin\Debug\Thrift.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\bin\Debug\Utilities.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\bin\Debug\LoggerHelper.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\bin\Debug\Utilities.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\bin\Debug\log4net.xml
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\bin\Debug\Thrift.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\obj\Debug\HbaseHelper.csprojResolveAssemblyReference.cache
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\obj\Debug\HbaseHelper.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\HbaseHelper\obj\Debug\HbaseHelper.pdb

@@ -1,0 +1,7 @@
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\LoggerHelper\bin\Debug\LoggerHelper.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\LoggerHelper\bin\Debug\LoggerHelper.pdb
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\LoggerHelper\bin\Debug\log4net.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\LoggerHelper\bin\Debug\log4net.xml
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\LoggerHelper\obj\Debug\LoggerHelper.csprojResolveAssemblyReference.cache
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\LoggerHelper\obj\Debug\LoggerHelper.dll
+E:\北汽项目\DotNetReadHbase\DotNetReadHbase\LoggerHelper\obj\Debug\LoggerHelper.pdb
